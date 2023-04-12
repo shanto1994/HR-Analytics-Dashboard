@@ -1,12 +1,11 @@
 # HR-Analytics-Dashboard
 Power BI project to visualize total attrition, average working hours, attriton by salary, education, job role etc so we can know why people are quiting job and how it can be prevented.
-Data Transformation :
 
 Data Transformation :
 
-1. Checked column quality. delete unnecessary column. Remove duplicates and so on.
+1. Checked column quality. Deleted unnecessary columns. Removed duplicates and so on.
 2. Added new column from Atrrition change its values to numeric values (yes to 1 and else 0) and 
-name it AttritionCount and make it's data type number.
+named it AttritionCount and make it's data type number.
 
 Visualization :
 
